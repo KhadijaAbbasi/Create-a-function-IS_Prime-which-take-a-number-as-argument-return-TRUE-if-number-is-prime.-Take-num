@@ -1,0 +1,1 @@
+# Create-a-function-IS_Prime-which-take-a-number-as-argument-return-TRUE-if-number-is-prime.-Take-num
